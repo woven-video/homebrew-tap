@@ -1,6 +1,6 @@
 cask "woven" do
-  version "0.2.54"
-  sha256 "f3950683778ab1500b64c974b0078f46929bd6bd997a0f5c2e96330cda517f6c"
+  version "0.2.55"
+  sha256 "69fdda9810a1fbd67e6c9d99d1203e6d16bdf2db300b04ce05af6dc181c2f429"
 
   url "https://release.woven.video/Woven-#{version}.dmg"
   name "Woven"
